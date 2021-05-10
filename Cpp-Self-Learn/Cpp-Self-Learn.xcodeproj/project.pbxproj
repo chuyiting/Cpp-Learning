@@ -10,6 +10,7 @@
 		4F8F69B025E265B200AB45BC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F8F69AF25E265B200AB45BC /* main.cpp */; };
 		4F8F69B825E265EE00AB45BC /* template.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F8F69B725E265EE00AB45BC /* template.cpp */; };
 		4F8F69C225E26CC700AB45BC /* string-practice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F8F69C025E26CC700AB45BC /* string-practice.cpp */; };
+		4FE3596B26498F40008EEDB5 /* collatz_conjecture.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FE3596A26498F40008EEDB5 /* collatz_conjecture.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +31,8 @@
 		4F8F69B725E265EE00AB45BC /* template.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = template.cpp; sourceTree = "<group>"; };
 		4F8F69C025E26CC700AB45BC /* string-practice.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "string-practice.cpp"; sourceTree = "<group>"; };
 		4F8F69C125E26CC700AB45BC /* string-practice.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "string-practice.hpp"; sourceTree = "<group>"; };
+		4FE3596A26498F40008EEDB5 /* collatz_conjecture.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = collatz_conjecture.cpp; sourceTree = "<group>"; };
+		4FE3596C264991C4008EEDB5 /* collatz_conjecture.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = collatz_conjecture.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +68,8 @@
 				4F8F69AF25E265B200AB45BC /* main.cpp */,
 				4F8F69B725E265EE00AB45BC /* template.cpp */,
 				4F8F69C025E26CC700AB45BC /* string-practice.cpp */,
+				4FE3596A26498F40008EEDB5 /* collatz_conjecture.cpp */,
+				4FE3596C264991C4008EEDB5 /* collatz_conjecture.h */,
 				4F8F69C125E26CC700AB45BC /* string-practice.hpp */,
 			);
 			path = "Cpp-Self-Learn";
@@ -127,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F8F69C225E26CC700AB45BC /* string-practice.cpp in Sources */,
+				4FE3596B26498F40008EEDB5 /* collatz_conjecture.cpp in Sources */,
 				4F8F69B025E265B200AB45BC /* main.cpp in Sources */,
 				4F8F69B825E265EE00AB45BC /* template.cpp in Sources */,
 			);

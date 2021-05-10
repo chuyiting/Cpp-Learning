@@ -6,11 +6,11 @@
 //
 
 #include <iostream>
+#include "collatz_conjecture.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    char str1[10] = {'a', 'b', 'c', '\0'};
-    std::cout << str1 << '\n';
+    collatz_conjecture();
     return 0;
     
 }
